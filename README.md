@@ -1,6 +1,8 @@
 ![Hero Image](assests/img/Hero_img.png)
 <div style="text-align: justify;">
+  <p>
 Welcome to my GitHub profile! I'm Gulam Sulaman Choudhury, a passionate 29-year-old graduate student navigating the dynamic realm of Computer and Information Science at Western Washington University. Based in the vibrant tech hub of Redmond, Washington, I not only thrive in the world of academia but also find joy in exploring scenic routes on my bike, immersing myself in captivating movies, harmonizing with diverse music genres, and cherishing moments with friends.
+  </p>
 </div>
 
 
@@ -8,7 +10,9 @@ Welcome to my GitHub profile! I'm Gulam Sulaman Choudhury, a passionate 29-year-
 
 ## 💻 Researcher, Design & Developer
 <div style="text-align: justify;">
+  <p>
 As a researcher, designer, and developer, I bring a multidimensional approach to the intersection of technology and human experience. My academic journey is marked by a keen interest in Behavioral Computation Research and Human-Computer Interaction Research. Delving into the intricate patterns of human behavior and the evolving landscape of technology interaction fuels my intellectual curiosity.
+  </p>
 </div>
 
 
@@ -43,7 +47,7 @@ I am passionate about my field and actively seeking opportunities for a research
 
 <a href="https://drive.google.com/file/d/1aPjQ8Ieb69CAFDBq9q2kJx-vqepXe9b6/view?usp=sharing" target="_blank" style="text-decoration: none;">
   <button style="width: 200px; padding: 15px; background-color: #0B5257; color: #FFFFFF; border: none; border-radius: 5px; cursor: pointer; text-transform: uppercase;">
-    View My Resume
+    **View My Resume**
   </button>
 </a>
 
@@ -91,28 +95,28 @@ I am passionate about my field and actively seeking opportunities for a research
 <!-- Email -->
 <a href="mailto:gulamsulaman@gmail.com" target="_blank" style="text-decoration: none;">
   <button style="padding: 15px; background-color: #0B5257; color: #FFFFFF; border: none; border-radius: 5px; cursor: pointer; text-transform: uppercase;">
-    Email Me
+    **Email Me**
   </button>
 </a>
 
 <!-- LinkedIn -->
 <a href="http://www.linkedin.com/in/abirsulaman" target="_blank" style="text-decoration: none;">
   <button style="padding: 15px; background-color: #2867B2; color: #FFFFFF; border: none; border-radius: 5px; cursor: pointer; text-transform: uppercase;">
-    LinkedIn
+    **LinkedIn**
   </button>
 </a>
 
 <!-- GitHub -->
 <a href="https://github.com/gulamchy" target="_blank" style="text-decoration: none;">
   <button style="padding: 15px; background-color: #333333; color: #FFFFFF; border: none; border-radius: 5px; cursor: pointer; text-transform: uppercase;">
-    GitHub
+    **GitHub**
   </button>
 </a>
 
 <!-- Twitter -->
 <a href="https://twitter.com/AbirSulaman" target="_blank" style="text-decoration: none;">
   <button style="padding: 15px; background-color: #1DA1F2; color: #FFFFFF; border: none; border-radius: 5px; cursor: pointer; text-transform: uppercase;">
-    Twitter
+    **Twitter**
   </button>
 </a>
 
