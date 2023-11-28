@@ -3,5 +3,6 @@ logo: assests/img/Headshot_circle.png
 description: Personal Website of Gulam Sulaman Choudhury
 #show_downloads: true
 theme: jekyll-theme-minimal
-social links:
-    - {platform: "Linkedin", user_url:"https://www.linkedin.com/in/your-linkedin-profile"}
+minimal:
+    social links:
+        - {platform: "Linkedin", user_url:"https://www.linkedin.com/in/your-linkedin-profile"}
