@@ -31,16 +31,10 @@ As a researcher, designer, and developer, I bring a multidimensional approach to
 
 ## 📄 Resume
 
-[View My Resume](https://drive.google.com/file/d/1aPjQ8Ieb69CAFDBq9q2kJx-vqepXe9b6/view?usp=sharing)
-
----
-
-## 📄 Resume
-
 I am passionate about my field and actively seeking opportunities for a research internship, UI/UX design internship, or frontend development internship. If you have a fitting opportunity, I would love to connect and contribute to innovative projects.
 
 <a href="https://drive.google.com/file/d/1aPjQ8Ieb69CAFDBq9q2kJx-vqepXe9b6/view?usp=sharing" target="_blank" style="text-decoration: none;">
-  <button style="width: 200px; padding: 10px; background-color: #4CAF50; color: #FFFFFF; border: none; border-radius: 5px;">
+  <button style="width: 200px; padding: 15px; background-color: #A9D5D8; color: #FFFFFF; border: none; border-radius: 5px; cursor: pointer;">
     View My Resume
   </button>
 </a>
@@ -84,41 +78,32 @@ I am passionate about my field and actively seeking opportunities for a research
 
 ## 📧 Contact Information
 
-- Email: [Email Address](mailto:gulamsulaman@gmail.com)
-- LinkedIn: [LinkedIn Profile](http://www.linkedin.com/in/abirsulaman)
-- Twitter: [Twitter Profile](https://twitter.com/AbirSulaman)
-- GitHub: [GitHub Profile](https://github.com/gulamchy)
-
----
-
-## 📧 Contact Information
-
 <div style="display: flex; justify-content: space-around;">
-
-<!-- LinkedIn -->
-<a href="http://www.linkedin.com/in/abirsulaman" target="_blank" style="text-decoration: none;">
-  <button style="padding: 10px; background-color: #2867B2; color: #FFFFFF; border: none; border-radius: 5px;">
-    LinkedIn
-  </button>
-</a>
 
 <!-- Email -->
 <a href="mailto:gulamsulaman@gmail.com" target="_blank" style="text-decoration: none;">
-  <button style="padding: 10px; background-color: #2867B2; color: #FFFFFF; border: none; border-radius: 5px;">
+  <button style="padding: 10px; background-color: #A9D5D8; color: #FFFFFF; border: none; border-radius: 5px; cursor: pointer;">
     Email Me
+  </button>
+</a>
+
+<!-- LinkedIn -->
+<a href="http://www.linkedin.com/in/abirsulaman" target="_blank" style="text-decoration: none;">
+  <button style="padding: 10px; background-color: #2867B2; color: #FFFFFF; border: none; border-radius: 5px; cursor: pointer;">
+    LinkedIn
   </button>
 </a>
 
 <!-- GitHub -->
 <a href="https://github.com/gulamchy" target="_blank" style="text-decoration: none;">
-  <button style="padding: 10px; background-color: #333333; color: #FFFFFF; border: none; border-radius: 5px;">
+  <button style="padding: 10px; background-color: #333333; color: #FFFFFF; border: none; border-radius: 5px; cursor: pointer;">
     GitHub
   </button>
 </a>
 
 <!-- Twitter -->
 <a href="https://twitter.com/AbirSulaman" target="_blank" style="text-decoration: none;">
-  <button style="padding: 10px; background-color: #1DA1F2; color: #FFFFFF; border: none; border-radius: 5px;">
+  <button style="padding: 10px; background-color: #1DA1F2; color: #FFFFFF; border: none; border-radius: 5px; cursor: pointer;">
     Twitter
   </button>
 </a>
