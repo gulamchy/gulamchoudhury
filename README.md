@@ -1,14 +1,10 @@
-# 👋 Hello, I am Gulam Sulaman Choudhury
-
-![Hero Image](your_hero_image_url_here)
+![Hero Image](assests/img/Hero_img.png)
 
 Welcome to my GitHub profile! I'm Gulam Sulaman Choudhury, a passionate 29-year-old graduate student navigating the dynamic realm of Computer and Information Science at Western Washington University. Based in the vibrant tech hub of Redmond, Washington, I not only thrive in the world of academia but also find joy in exploring scenic routes on my bike, immersing myself in captivating movies, harmonizing with diverse music genres, and cherishing moments with friends.
 
 ---
 
 ## 💻 Researcher, Design & Developer
-
-![Image Above Researcher, Design & Developer](your_image_url_here)
 
 As a researcher, designer, and developer, I bring a multidimensional approach to the intersection of technology and human experience. My academic journey is marked by a keen interest in Behavioral Computation Research and Human-Computer Interaction Research. Delving into the intricate patterns of human behavior and the evolving landscape of technology interaction fuels my intellectual curiosity.
 
