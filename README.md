@@ -1,4 +1,4 @@
-![Hero Image](assests/img/Hero_img.png)
+<img src="assests/img/Hero_img.jpg" alt="Hero Image" style="max-width: 500px;">
 <div style="text-align: justify;">
   <p>
 Welcome to my GitHub profile! I'm Gulam Sulaman Choudhury, a passionate 29-year-old graduate student navigating the dynamic realm of Computer and Information Science at Western Washington University. Based in the vibrant tech hub of Redmond, Washington, I not only thrive in the world of academia but also find joy in exploring scenic routes on my bike, immersing myself in captivating movies, harmonizing with diverse music genres, and cherishing moments with friends.
@@ -85,7 +85,7 @@ I am passionate about my field and actively seeking opportunities for a research
 <div style="display: flex; justify-content: space-around;">
 
   <!-- Project One -->
-  <div style="text-align: center;">
+  <div>
     <img src="assests/img/Project_one.png" alt="Project One Image" style="max-width: 200px;">
     <p style="font-weight: bold;">InTeam Management Dashboard</p>
     <p>Inteam is a conceptual team management Dashboard designed to increase overall team performance while keeping everything in the same platform.</p>
@@ -93,7 +93,7 @@ I am passionate about my field and actively seeking opportunities for a research
   </div>
 
   <!-- Project Two -->
-  <div style="text-align: center;">
+  <div>
     <img src="assests/img/Project_two.jpg" alt="Project Two Image" style="max-width: 200px;">
     <p style="font-weight: bold;">Talentboard - Candidates</p>
     <p>Talentboard is a conceptual online platform or interface where job seekers can manage and track various aspects of their job search process.</p>
