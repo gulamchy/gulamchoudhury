@@ -35,6 +35,18 @@ As a researcher, designer, and developer, I bring a multidimensional approach to
 
 ---
 
+## 📄 Resume
+
+I am passionate about my field and actively seeking opportunities for a research internship, UI/UX design internship, or frontend development internship. If you have a fitting opportunity, I would love to connect and contribute to innovative projects.
+
+<a href="https://drive.google.com/file/d/1aPjQ8Ieb69CAFDBq9q2kJx-vqepXe9b6/view?usp=sharing" target="_blank" style="text-decoration: none;">
+  <button style="width: 200px; padding: 10px; background-color: #4CAF50; color: #FFFFFF; border: none; border-radius: 5px;">
+    View My Resume
+  </button>
+</a>
+
+---
+
 ## 📋 Research Experience
 
 ### Undergraduate Research (September 2021 - December 2021)
@@ -87,6 +99,13 @@ As a researcher, designer, and developer, I bring a multidimensional approach to
 <a href="http://www.linkedin.com/in/abirsulaman" target="_blank" style="text-decoration: none;">
   <button style="padding: 10px; background-color: #2867B2; color: #FFFFFF; border: none; border-radius: 5px;">
     LinkedIn
+  </button>
+</a>
+
+<!-- Email -->
+<a href="mailto:gulamsulaman@gmail.com" target="_blank" style="text-decoration: none;">
+  <button style="padding: 10px; background-color: #2867B2; color: #FFFFFF; border: none; border-radius: 5px;">
+    Email Me
   </button>
 </a>
 
