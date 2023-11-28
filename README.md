@@ -1,4 +1,4 @@
-<img src="assests/img/Hero_img.jpg" alt="Hero Image" style="max-width: 500px;">
+<img src="assests/img/Hero_img.jpg" alt="Hero Image" style="max-width: 500px; width: 100%; height: auto;">
 <div style="text-align: justify;">
   <p>
 Welcome to my website! I'm Gulam Sulaman Choudhury, a passionate 29-year-old graduate student navigating the dynamic realm of Computer and Information Science at Western Washington University. Based in the vibrant tech hub of Redmond, Washington, I not only thrive in the world of academia but also find joy in exploring scenic routes on my bike, immersing myself in captivating movies, harmonizing with diverse music genres, and cherishing moments with friends.
