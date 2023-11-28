@@ -76,3 +76,33 @@ As a researcher, designer, and developer, I bring a multidimensional approach to
 - LinkedIn: [LinkedIn Profile](http://www.linkedin.com/in/abirsulaman)
 - Twitter: [Twitter Profile](https://twitter.com/AbirSulaman)
 - GitHub: [GitHub Profile](https://github.com/gulamchy)
+
+---
+
+## 📧 Contact Information
+
+<div style="display: flex; justify-content: space-around;">
+
+<!-- LinkedIn -->
+<a href="http://www.linkedin.com/in/abirsulaman" target="_blank" style="text-decoration: none;">
+  <button style="padding: 10px; background-color: #2867B2; color: #FFFFFF; border: none; border-radius: 5px;">
+    LinkedIn
+  </button>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/gulamchy" target="_blank" style="text-decoration: none;">
+  <button style="padding: 10px; background-color: #333333; color: #FFFFFF; border: none; border-radius: 5px;">
+    GitHub
+  </button>
+</a>
+
+<!-- Twitter -->
+<a href="https://twitter.com/AbirSulaman" target="_blank" style="text-decoration: none;">
+  <button style="padding: 10px; background-color: #1DA1F2; color: #FFFFFF; border: none; border-radius: 5px;">
+    Twitter
+  </button>
+</a>
+
+</div>
+
