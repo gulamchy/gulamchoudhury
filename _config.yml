@@ -4,4 +4,4 @@ description: Personal Website of Gulam Sulaman Choudhury
 #show_downloads: true
 theme: jekyll-theme-minimal
 social links:
-      - Linkedin: www.linkedin.com/in/abirsulaman
+- <a href="www.linkedin.com/in/abirsulaman" target="_blank">LinkedIn</a> 
