@@ -1,7 +1,7 @@
 <img src="assests/img/Hero_img.jpg" alt="Hero Image" style="max-width: 500px;">
 <div style="text-align: justify;">
   <p>
-Welcome to my GitHub profile! I'm Gulam Sulaman Choudhury, a passionate 29-year-old graduate student navigating the dynamic realm of Computer and Information Science at Western Washington University. Based in the vibrant tech hub of Redmond, Washington, I not only thrive in the world of academia but also find joy in exploring scenic routes on my bike, immersing myself in captivating movies, harmonizing with diverse music genres, and cherishing moments with friends.
+Welcome to my website! I'm Gulam Sulaman Choudhury, a passionate 29-year-old graduate student navigating the dynamic realm of Computer and Information Science at Western Washington University. Based in the vibrant tech hub of Redmond, Washington, I not only thrive in the world of academia but also find joy in exploring scenic routes on my bike, immersing myself in captivating movies, harmonizing with diverse music genres, and cherishing moments with friends.
   </p>
 </div>
 
@@ -97,7 +97,7 @@ I am passionate about my field and actively seeking opportunities for a research
     <img src="assests/img/Project_two.jpg" alt="Project Two Image" style="max-width: 200px;">
     <p style="font-weight: bold;">Talentboard - Candidates</p>
     <p>Talentboard is a conceptual online platform or interface where job seekers can manage and track various aspects of their job search process.</p>
-    <p><a href="https://dribbble.com/shots/22644733-Talentboard-Candidates" target="_blank">Visit Project Two</a></p>
+    <p><a href="https://dribbble.com/shots/22644733-Talentboard-Candidates" target="_blank">Visit Project</a></p>
   </div>
 
 </div>
