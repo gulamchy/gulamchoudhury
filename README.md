@@ -53,7 +53,7 @@ I am passionate about my field and actively seeking opportunities for a research
 
 ---
 
-## 📋 Research Experience
+## 🔬 Research Experience
 
 ### Undergraduate Research (September 2021 - December 2021)
 - **Thesis Title:** A Multi-Classification Deep Learning Model For Diagnosing Different Chest Diseases.
@@ -77,6 +77,30 @@ I am passionate about my field and actively seeking opportunities for a research
 - Led design efforts for various club programs and events.
 - Designed merchandise and promotional materials to enhance the club's visibility and impact.
 - Worked closely with team members to create cohesive branding strategies.
+
+
+---
+## 🛠️ Projects
+
+<div style="display: flex; justify-content: space-around;">
+
+  <!-- Project One -->
+  <div style="text-align: center;">
+    <img src="assests/img/Project_one.png" alt="Project One Image" style="max-width: 200px;">
+    <p style="font-weight: bold;">InTeam Management Dashboard</p>
+    <p>Inteam is a conceptual team management Dashboard designed to increase overall team performance while keeping everything in the same platform.</p>
+    <p><a href="https://dribbble.com/shots/14509792-Status-Report-InTeam-Team-Management-Dashboard" target="_blank">Visit Project</a></p>
+  </div>
+
+  <!-- Project Two -->
+  <div style="text-align: center;">
+    <img src="assests/img/Project_two.jpg" alt="Project Two Image" style="max-width: 200px;">
+    <p style="font-weight: bold;">Talentboard - Candidates</p>
+    <p>Talentboard is a conceptual online platform or interface where job seekers can manage and track various aspects of their job search process.</p>
+    <p><a href="https://dribbble.com/shots/22644733-Talentboard-Candidates" target="_blank">Visit Project Two</a></p>
+  </div>
+
+</div>
 
 ---
 
