@@ -1,12 +1,19 @@
 import { useRef, useState, useEffect } from 'react';
 import gsap from 'gsap';
 
-import image1 from '../../assets/myImages/image1.png';
-import image2 from '../../assets/myImages/image2.png';
-import image3 from '../../assets/myImages/image3.png';
-import image4 from '../../assets/myImages/image4.png';
-import image5 from '../../assets/myImages/image5.png';
-import image6 from '../../assets/myImages/image6.png';
+// import image1 from '../../assets/myImages/image1.png';
+// import image2 from '../../assets/myImages/image2.png';
+// import image3 from '../../assets/myImages/image3.png';
+// import image4 from '../../assets/myImages/image4.png';
+// import image5 from '../../assets/myImages/image5.png';
+// import image6 from '../../assets/myImages/image6.png';
+
+import image1 from '@/assets/myImages/image1.png';
+import image2 from '@/assets/myImages/image2.png';
+import image3 from '@/assets/myImages/image3.png';
+import image4 from '@/assets/myImages/image4.png';
+import image5 from '@/assets/myImages/image5.png';
+import image6 from '@/assets/myImages/image6.png';
 
 
 const AboutImage = () => {
