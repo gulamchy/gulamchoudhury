@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import { useRef, useState, useEffect } from 'react';
 import gsap from 'gsap';
 
@@ -8,12 +9,19 @@ import gsap from 'gsap';
 // import image5 from '../assets/myImages/image5.png';
 // import image6 from '../assets/myImages/image6.png';
 
-import image1 from '@assets/myImages/image1.png';
-import image2 from '@assets/myImages/image2.png';
-import image3 from '@assets/myImages/image3.png';
-import image4 from '@assets/myImages/image4.png';
-import image5 from '@assets/myImages/image5.png';
-import image6 from '@assets/myImages/image6.png';
+// import image1 from '@assets/myImages/image1.png';
+// import image2 from '@assets/myImages/image2.png';
+// import image3 from '@assets/myImages/image3.png';
+// import image4 from '@assets/myImages/image4.png';
+// import image5 from '@assets/myImages/image5.png';
+// import image6 from '@assets/myImages/image6.png';
+
+const image1 = require('../../assets/myImages/image1.png');
+const image2 = require('../../assets/myImages/image2.png');
+const image3 = require('../../assets/myImages/image3.png');
+const image4 = require('../../assets/myImages/image4.png');
+const image5 = require('../../assets/myImages/image5.png');
+const image6 = require('../../assets/myImages/image6.png');
 
 
 const AboutImage = () => {
