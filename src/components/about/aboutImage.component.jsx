@@ -1,27 +1,28 @@
 /* eslint-disable no-undef */
 import { useRef, useState, useEffect } from 'react';
 import gsap from 'gsap';
+import { imageModel } from '../../models/imageModel';
 
-// import image1 from '../assets/myImages/image1.png';
-// import image2 from '../assets/myImages/image2.png';
-// import image3 from '../assets/myImages/image3.png';
-// import image4 from '../assets/myImages/image4.png';
-// import image5 from '../assets/myImages/image5.png';
-// import image6 from '../assets/myImages/image6.png';
+// import image1 from '../../assets/myImages/image1.png';
+// import image2 from '../../assets/myImages/image2.png';
+// import image3 from '../../assets/myImages/image3.png';
+// import image4 from '../../assets/myImages/image4.png';
+// import image5 from '../../assets/myImages/image5.png';
+// import image6 from '../../assets/myImages/image6.png';
 
-// import image1 from '@assets/myImages/image1.png';
-// import image2 from '@assets/myImages/image2.png';
-// import image3 from '@assets/myImages/image3.png';
-// import image4 from '@assets/myImages/image4.png';
-// import image5 from '@assets/myImages/image5.png';
-// import image6 from '@assets/myImages/image6.png';
+// import image1 from '/image1.png';
+// import image2 from '/image2.png';
+// import image3 from '/image3.png';
+// import image4 from '/image4.png';
+// import image5 from '/image5.png';
+// import image6 from '/image6.png';
 
-const image1 = require('../../assets/myImages/image1.png');
-const image2 = require('../../assets/myImages/image2.png');
-const image3 = require('../../assets/myImages/image3.png');
-const image4 = require('../../assets/myImages/image4.png');
-const image5 = require('../../assets/myImages/image5.png');
-const image6 = require('../../assets/myImages/image6.png');
+// const image1 = require('../../assets/myImages/image1.png').default;
+// const image2 = require('../../assets/myImages/image2.png').default;
+// const image3 = require('../../assets/myImages/image3.png').default;
+// const image4 = require('../../assets/myImages/image4.png').default;
+// const image5 = require('../../assets/myImages/image5.png').default;
+// const image6 = require('../../assets/myImages/image6.png').default;
 
 
 const AboutImage = () => {
@@ -30,7 +31,19 @@ const AboutImage = () => {
   const [movedPoints, setMovedPoints] = useState({ x: 0, y: 0 });
   const [smoothMouse, setSmoothMouse] = useState({ x: 0, y: 0 });
   const [cursorVelocity, setCursorVelocity] = useState({ x: 0, y: 0 });
-  const imgUrl = gsap.utils.random([image1, image2, image3, image4, image5, image6], true);
+  // const imgUrl = gsap.utils.random([image1, image2, image3, image4, image5, image6], true);
+  const imgUrl = gsap.utils.random(imageModel.map(img => img.image), true);
+  // const imgUrl = gsap.utils.random(
+  //   [
+  //     "/image1.png",
+  //     "/image2.png",
+  //     "/image3.png",
+  //     "/image4.png",
+  //     "/image5.png",
+  //     "/image6.png"
+  //   ],
+  //   true
+  // );
   
   
 
@@ -64,6 +77,7 @@ const AboutImage = () => {
 
       if (distance > 70) {
         const img = new Image();
+        // img.src = imgUrl();
         img.src = imgUrl();
 
         gsap.set(img, {
