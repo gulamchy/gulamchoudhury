@@ -11,4 +11,8 @@ export default defineConfig({
       '@assets': path.resolve(__dirname, 'assets')
     },
   },
+  base: '/', // Adjust if needed
+  build: {
+    outDir: 'dist', // Default, ensure Render uses this
+  },
 })
