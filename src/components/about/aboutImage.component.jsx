@@ -1,5 +1,6 @@
 import { useRef, useState, useEffect } from 'react';
 import gsap from 'gsap';
+
 import image1 from '../../assets/myImages/image1.png';
 import image2 from '../../assets/myImages/image2.png';
 import image3 from '../../assets/myImages/image3.png';
@@ -7,14 +8,16 @@ import image4 from '../../assets/myImages/image4.png';
 import image5 from '../../assets/myImages/image5.png';
 import image6 from '../../assets/myImages/image6.png';
 
+
 const AboutImage = () => {
   const sectionRef = useRef(null); // Section reference
   const [initialPoints, setInitialPoints] = useState({ x: 0, y: 0 });
   const [movedPoints, setMovedPoints] = useState({ x: 0, y: 0 });
   const [smoothMouse, setSmoothMouse] = useState({ x: 0, y: 0 });
   const [cursorVelocity, setCursorVelocity] = useState({ x: 0, y: 0 });
-
   const imgUrl = gsap.utils.random([image1, image2, image3, image4, image5, image6], true);
+  
+  
 
   const lerp = (x, y, a) => x * (1 - a) + y * a;
 
@@ -81,6 +84,7 @@ const AboutImage = () => {
           }, '-=0.2');
 
         // Append image to the section (not document body)
+        // section.appendChild(img);
         section.appendChild(img);
         setMovedPoints({ x: relativeX, y: relativeY });
         
